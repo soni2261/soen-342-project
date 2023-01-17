@@ -8,4 +8,4 @@ Features of the platform
 
 ## Team members
 - Ahmed Rebei @ahmedrebei
-- person @person
+- Mylène Hilary Fotso Tsafack @hilary-ostof
