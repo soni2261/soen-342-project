@@ -8,7 +8,7 @@ Three main features were thought of to solve these issues: ________, social grou
 
 ## Team members
 - Ibrahim Daami @
-- Maria Ghobrial @
+- Maria Ghobrial @mariaghobrial
 - Mylène Hilary Fotso Tsafack @hilary-ostof
 - Tasnim Niloy @Promass
 - Sonia Rahal @soni2261
